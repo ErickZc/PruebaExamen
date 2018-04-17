@@ -15,7 +15,10 @@ public class PruebaExamen {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.err.println("Primera prueba :v");
+        
+        System.out.println("Primera Prueba :v");
+        System.out.println("Segunda Prueba :v");
+
     }
     
 }
